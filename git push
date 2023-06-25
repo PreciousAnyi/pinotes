@@ -1,0 +1,24 @@
+[33mcommit 1756765d0a12303e431bbd8736dbf40e7d1caff3[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Merge: 5c9d6c9 1146165
+Author: PreciousAnyi <jkpresh@gmail.com>
+Date:   Sun Jun 25 10:18:43 2023 -0700
+
+    Merge branch 'main' of github.com:PreciousAnyi/pinotes
+
+[33mcommit 5c9d6c93bb57bde9ab251dcf10ba1fc1e49f0c38[m[33m ([m[1;31morigin/master[m[33m, [m[1;32mmaster[m[33m)[m
+Author: PreciousAnyi <jkpresh@gmail.com>
+Date:   Sun Jun 25 09:00:46 2023 -0700
+
+    first commit
+
+[33mcommit 11461651b8ce801d1a5292fe2011e4208b3a4278[m[33m ([m[1;31morigin/main[m[33m)[m
+Author: Precious Ifeanyi <67829268+PreciousAnyi@users.noreply.github.com>
+Date:   Sun Jun 25 08:58:33 2023 -0700
+
+    Initial commit
+
+[33mcommit 45a8afa13643d2dd34fb2421012888bda5bd96de[m
+Author: PreciousAnyi <jkpresh@gmail.com>
+Date:   Tue Jun 20 08:25:28 2023 -0700
+
+    Committing local changes

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # pinotes
 
 A new Flutter project.
@@ -14,3 +15,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# pinotes
+>>>>>>> 11461651b8ce801d1a5292fe2011e4208b3a4278
