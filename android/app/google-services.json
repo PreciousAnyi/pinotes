@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "81111578667",
+    "project_id": "pinotes-flutter-project",
+    "storage_bucket": "pinotes-flutter-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:81111578667:android:83ed48dc9a31c400e8126e",
+        "android_client_info": {
+          "package_name": "pi.api.pinotes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "81111578667-9p8g0ok5uvdotugpoipbia91dvngk5qj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCItITTDN-K5OCU3Btd6ynqenWGUFr-JcE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "81111578667-9p8g0ok5uvdotugpoipbia91dvngk5qj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "81111578667-55lone21pvfqllk347votmfo19jilnhk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "pi.api.pinotes"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
